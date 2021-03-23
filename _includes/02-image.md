@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Barcelona22@](https://cronicaglobal.elespanol.com/uploads/s1/43/93/06/2/confianza-empresarial-aumenta-espana.jpeg)
