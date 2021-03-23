@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+1. Pizza 🍕
+2. Paella 🥘
+    1. Chocolate 🍫
+    2. Ice-cream 🍨
+
+- YouTube
+- Twitch
+    - Minutes
